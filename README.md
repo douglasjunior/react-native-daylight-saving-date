@@ -8,7 +8,7 @@ This issue has been reporte to [`jsc-android`](https://github.com/react-native-c
 
 On a emulator or real device: Setup the Android timezone to `'GMT-03:00 Brasilia Standart Time' (or America/Sao_Paulo) (-02:00 when in daylight saving date)`.
 
-![timezone](https://github.com/douglasjunior/react-native-daylight-saving-date/screenshots/timezone-config.png)
+<img src="https://raw.githubusercontent.com/douglasjunior/react-native-daylight-saving-date/master/screenshots/timezone-config.png" width="300" />
 
 Clone this repo and run:
 
@@ -21,7 +21,11 @@ react-native run-android
 
 The [App.js](https://github.com/douglasjunior/react-native-daylight-saving-date/blob/master/App.js) should displays a `alert` popup like this:
 
-![alert](https://github.com/douglasjunior/react-native-daylight-saving-date/screenshots/alert-wrong-date.png)
+<img src="https://raw.githubusercontent.com/douglasjunior/react-native-daylight-saving-date/master/screenshots/alert-wrong-date.png" width="300" />
+
+## Note
+
+The branch `master` uses default React Native 0.58.5 JavaScriptCore, while `jsc` branch uses the jsc-android 236355.1.1.
 
 ## Enviroment
 
