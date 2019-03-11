@@ -25,7 +25,7 @@ The [App.js](https://github.com/douglasjunior/react-native-daylight-saving-date/
 
 ## Note
 
-The branch `master` uses default React Native 0.58.5 JavaScriptCore, while `jsc` branch uses the jsc-android 236355.1.1.
+The branch `master` uses default React Native `0.58.5` JavaScriptCore, while `jsc` branch uses the [jsc-android](https://github.com/react-native-community/jsc-android-buildscripts) `236355.1.1`.
 
 ## Enviroment
 
